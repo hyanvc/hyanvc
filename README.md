@@ -2,6 +2,7 @@
 
 
 - 🔭 Trabalho atualmente com Back/FrontEnd
+- Criação e manutenção de APIS.
 -  Estou estudando javascript/css/.net
 - 📫  Contate-me por este email: hyann1@hotmail.com
 - 😄 Pronouns: ele/dele
